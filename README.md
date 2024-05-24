@@ -1,1 +1,2 @@
 # bank-management-system
+The Bank Management System in C++ manages two types of accounts: savings and current. It uses class inheritance to structure the program, with the account class serving as the base class. The account class contains three private member variables: name, accno, and atype, and it includes two member functions: getAccountDetails() for user input and displayDetails() for outputting account information.
